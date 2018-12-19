@@ -1,5 +1,5 @@
 from transitions.extensions import GraphMachine
-from utils import send_text_message, send_image_url
+from utils import send_text_message
 import requests
 import pandas as pd
 import numpy as np
